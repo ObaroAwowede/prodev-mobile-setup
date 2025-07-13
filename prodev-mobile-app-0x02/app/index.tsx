@@ -1,4 +1,10 @@
-import { Text, View, TouchableOpacity, Dimensions, StyleSheet } from "react-native";
+import {
+  Text,
+  View,
+  TouchableOpacity,
+  Dimensions,
+  StyleSheet,
+} from "react-native";
 import { SafeAreaProvider, SafeAreaView } from "react-native-safe-area-context";
 import { ImageBackground } from "expo-image";
 import { Image } from "react-native-reanimated/lib/typescript/Animated";
